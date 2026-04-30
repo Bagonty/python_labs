@@ -37,4 +37,4 @@ result = {
     "payment_method": payment_method
 }
 
-print(json.dumps(result, indent=4, ensure_ascii=False))
+print(json.dumps(result, indent=4, ensure_ascii=False)) 
